@@ -2,4 +2,4 @@
 
 **Name**: Ekemini Akpan  
 **Student Number**: 041052263  
-**Static Site Generator**: Eleventy
+**Static Site Generator**: Next.js
