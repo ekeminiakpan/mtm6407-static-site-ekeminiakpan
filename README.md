@@ -1,1 +1,5 @@
-# mtm6407-static-site-ekeminiakpan
+# Static Site Project
+
+**Name**: Ekemini Akpan  
+**Student Number**: 041052263  
+**Static Site Generator**: Eleventy
